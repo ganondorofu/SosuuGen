@@ -1,0 +1,20 @@
+C:\Users\81708\Desktop\NET Framework\NET Framework\bin\Debug\NET Framework.exe.config
+C:\Users\81708\Desktop\NET Framework\NET Framework\bin\Debug\NET Framework.exe
+C:\Users\81708\Desktop\NET Framework\NET Framework\bin\Debug\NET Framework.pdb
+C:\Users\81708\Desktop\NET Framework\NET Framework\obj\Debug\NET Framework.csproj.AssemblyReference.cache
+C:\Users\81708\Desktop\NET Framework\NET Framework\obj\Debug\NET_Framework.Properties.Resources.resources
+C:\Users\81708\Desktop\NET Framework\NET Framework\obj\Debug\NET Framework.csproj.GenerateResource.cache
+C:\Users\81708\Desktop\NET Framework\NET Framework\obj\Debug\NET Framework.csproj.CoreCompileInputs.cache
+C:\Users\81708\Desktop\NET Framework\NET Framework\obj\Debug\NET Framework.exe
+C:\Users\81708\Desktop\NET Framework\NET Framework\obj\Debug\NET Framework.pdb
+C:\Users\81708\Desktop\NET Framework\NET Framework\obj\Debug\NET_Framework.Form1.resources
+C:\Users\56\Desktop\Visual_Studio\NET Framework\NET Framework\bin\Debug\NET Framework.exe.config
+C:\Users\56\Desktop\Visual_Studio\NET Framework\NET Framework\bin\Debug\NET Framework.exe
+C:\Users\56\Desktop\Visual_Studio\NET Framework\NET Framework\bin\Debug\NET Framework.pdb
+C:\Users\56\Desktop\Visual_Studio\NET Framework\NET Framework\obj\Debug\NET Framework.csproj.AssemblyReference.cache
+C:\Users\56\Desktop\Visual_Studio\NET Framework\NET Framework\obj\Debug\NET_Framework.Form1.resources
+C:\Users\56\Desktop\Visual_Studio\NET Framework\NET Framework\obj\Debug\NET_Framework.Properties.Resources.resources
+C:\Users\56\Desktop\Visual_Studio\NET Framework\NET Framework\obj\Debug\NET Framework.csproj.GenerateResource.cache
+C:\Users\56\Desktop\Visual_Studio\NET Framework\NET Framework\obj\Debug\NET Framework.csproj.CoreCompileInputs.cache
+C:\Users\56\Desktop\Visual_Studio\NET Framework\NET Framework\obj\Debug\NET Framework.exe
+C:\Users\56\Desktop\Visual_Studio\NET Framework\NET Framework\obj\Debug\NET Framework.pdb
